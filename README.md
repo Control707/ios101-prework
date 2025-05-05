@@ -20,6 +20,20 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+Instagram
+Changing the background color of the messages screen
+Deleting old messages
+
+Telegram
+Fast and simple to use.
+I've available on multiple platforms.
+
+WhatsApp
+Secure and reliable messaging.
+works well with low data.
+Privacy-focused messaging.
+
+I want to build an app that plays the piano using the iPhone camera and machine learning. The app would see where the fingers of the player are placed on the keyboard and play that specific note.
 
 ## Notes
 Challenges:
